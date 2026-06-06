@@ -29,7 +29,7 @@ Built to feel like a blend of Apple, Tesla, and next-gen startup websites.
 ✨ Gradient glow effects
 🚀 Fast and optimized performance
 
-🛠️ Tech Stack
+🛠️ Tech Stack : 
 React.js
 Tailwind CSS
 Framer Motion
