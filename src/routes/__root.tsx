@@ -77,14 +77,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Naksh's Ecommerce Nexus" },
+      { name: "description", content: "Future Forge is a 3D e-commerce platform for luxury tech and lifestyle products." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Naksh's Ecommerce Nexus" },
+      { property: "og:description", content: "Future Forge is a 3D e-commerce platform for luxury tech and lifestyle products." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Naksh's Ecommerce Nexus" },
+      { name: "twitter:description", content: "Future Forge is a 3D e-commerce platform for luxury tech and lifestyle products." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/111f4794-3a22-426c-97c0-3445235b272e/id-preview-10c65107--6668e0be-0c87-4ff7-8b62-5ddce8d11c3f.lovable.app-1780729993688.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/111f4794-3a22-426c-97c0-3445235b272e/id-preview-10c65107--6668e0be-0c87-4ff7-8b62-5ddce8d11c3f.lovable.app-1780729993688.png" },
     ],
     links: [
       {
